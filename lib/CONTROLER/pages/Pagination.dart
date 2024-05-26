@@ -4,7 +4,7 @@ import 'package:flutter_application_test/MODEL/sqflite/insertdata.dart';
 import 'package:flutter_application_test/constant/constant.dart';
 import 'package:get/get.dart';
 import 'package:http/http.dart' as http;
-import 'package:flutter_application_test/CONTROLER/chsckInternet.dart';
+import 'package:flutter_application_test/constant/chsckInternet.dart';
 import 'package:sqflite/sqflite.dart';
 
 class Pageinationcontroler extends GetxController {

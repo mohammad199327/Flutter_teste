@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 // ignore: unused_import
-import 'package:flutter_application_test/CONTROLER/chsckInternet.dart';
+import 'package:flutter_application_test/constant/chsckInternet.dart';
 import 'package:flutter_application_test/CONTROLER/pages/homecontroler.dart';
 import 'package:flutter_application_test/MODEL/sqflite/DB.dart';
 import 'package:flutter_application_test/VIEW/Custom/costomcard.dart';

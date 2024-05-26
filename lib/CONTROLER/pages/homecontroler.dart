@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_application_test/CONTROLER/chsckInternet.dart';
+import 'package:flutter_application_test/constant/chsckInternet.dart';
 import 'package:flutter_application_test/MODEL/sqflite/DB.dart';
 import 'package:flutter_application_test/MODEL/sqflite/insertdata.dart';
 import 'package:flutter_application_test/VIEW/page/final.dart';
