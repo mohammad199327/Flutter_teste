@@ -5,7 +5,7 @@ import 'package:mockito/annotations.dart';
 import 'package:http/http.dart' as http;
 import 'package:mockito/mockito.dart';
 
-import '../../testmockito_test.mocks.dart';
+import 'sinupcontroler_test.mocks.dart';
 
 @GenerateMocks([http.Client])
 void main() {
